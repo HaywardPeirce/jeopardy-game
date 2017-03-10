@@ -8,6 +8,7 @@ import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Now you can import your module
+import jeopardy
 
 @app.route('/')
 def index():
@@ -16,8 +17,3 @@ def index():
 @app.route('/about')
 def about():
     return render_template("about.html")
-
-@app.route('/game')
-def game():
-
-    return render_template('game.html')
