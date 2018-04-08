@@ -1,0 +1,29 @@
+[
+    {
+       "category": "ESPN\\'s TOP 10 ALL-TIME ATHLETES",
+       "air_date": "2004-12-31",
+       "question": "'No. 2:1912 Olympian; football star at Carlisle Indian School; 6 MLB seasons with the Reds, Giants & Braves'",
+       "value": "$200",
+       "answer": "Jim Thorpe",
+       "round": "Jeopardy!",
+       "show_number": "4680"
+    },
+    {
+       "category":"THE COMPANY LINE",
+       "air_date":"2004-12-31",
+       "question":"In 1963, live on 'The Art Linkletter Show', this company served its billionth burger",
+       "value": "$200",
+       "answer": "McDonald\\'s",
+       "round":"Jeopardy!",
+       "show_number":"4680"
+    },
+    {
+       "category":"THE COMPANY LINE",
+       "air_date":"2005-12-31",
+       "question":"In 1965, live on 'The Art Linkletter Show', this company served its billionth burger",
+       "value": "$300",
+       "answer": "McDonald\\'s",
+       "round":"Jeopardy!",
+       "show_number":"4680"
+    }
+]
